@@ -1,19 +1,42 @@
-# election-assistant
-An interactive AI assistant that guides users through the election process,its timelines etc.
 # Election Guide Assistant
 
 ## Overview
-An AI assistant that helps users understand elections in a simple, step-by-step interactive way.
+An AI-powered interactive assistant designed to help users understand elections and guide them through voter registration and voting processes in a simple, step-by-step manner.
 
 ## Problem
-Many people don’t understand voter registration and election processes or find it difficult to reach any guide for information.
+Many first-time voters struggle to understand:
+- eligibility rules
+- registration process
+- voting procedure
+- election timelines
 
 ## Solution
-This assistant guides users interactively based on their situation wheter it is about the election process or voting or registeration.
+This project uses a structured AI assistant that:
+- asks clarifying questions
+- adapts to user responses
+- provides step-by-step guidance
+- simplifies complex civic processes
 
-## iles
-- prompt.txt → system prompt (core logic)
+## Key Features
+- Interactive conversational flow
+- Personalized guidance based on user profile
+- Step-by-step instructions
+- Beginner-friendly explanations
+- Neutral and factual responses
+
+## System Design
+The assistant follows a decision-tree logic:
+Learn → Register → Vote → Guidance completion
+
+(See flow-diagram.md for full structure)
+
+## Project Files
+- prompt.txt → AI assistant brain
 - demo-conversations.md → example interactions
+- flow-diagram.md → conversation logic
 
 ## How it works
-User answers questions → assistant gives next step → fully guided experience
+User enters a query → Assistant identifies intent → Asks questions → Provides step-by-step guidance → Ends with next action
+
+## Impact
+Helps improve civic awareness and simplifies the voting process for first-time voters.
