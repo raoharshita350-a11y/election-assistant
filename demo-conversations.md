@@ -1,4 +1,4 @@
-## 🧪 Demo Conversations 
+## Demo Conversations 
 
 ## Example 1: Non-eligible voter
 User: I want to vote. 
