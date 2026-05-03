@@ -30,8 +30,7 @@ The assistant successfully:
 - Followed prompt constraints effectively
 - Provided a final step to take action
 
----
-
-## 📌 Conclusion
-
+##  Conclusion
 Google AI Studio was used as a testing environment to validate the prompt design and conversational flow of the Election Guide Assistant.
+
+---
