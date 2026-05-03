@@ -34,6 +34,7 @@ Learn → Register → Vote → Guidance completion
 - prompt.txt → AI assistant brain
 - demo-conversations.md → example interactions
 - flow-diagram.md → conversation logic
+- ai-tool-demo → Gives evidence about assistant 
 
 ## How it works
 User enters a query → Assistant identifies intent → Asks questions → Provides step-by-step guidance → Ends with next action
